@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
 
-        <title>Tuts+ Chat Application</title>
+        <title>Pomodoro Chat Application</title>
         <meta name="description" content="Tuts+ Chat Application" />
         <link rel="stylesheet" href="style.css" />
     </head>
